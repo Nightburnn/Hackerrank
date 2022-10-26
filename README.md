@@ -4,5 +4,5 @@
 <li><strong>DAY 1: </strong>Data Types</li>
 <li><strong>Day 2: </strong>Operators</li>
 <li><strong>Day 3: </strong>Intro to Conditional Statements</li>
-<li><strong>Day 4: <strong>Class vs Instance</li>
+<li><strong>Day 4: </strong>Class vs Instance</li>
 </ul>
