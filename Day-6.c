@@ -12,7 +12,7 @@ int main()
 
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
 
-    int num; char str[1024];
+    int num; char str[10000];
 
     scanf("%d",&num);
 
